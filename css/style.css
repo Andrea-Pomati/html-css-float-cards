@@ -30,11 +30,18 @@ h1 {
 
 .rettangolo {
     width: 33%;
-    height: 100px;
+    height: 80px;
     background-color: black;
     color: white;
     display: inline-block;
     margin-bottom: 30px;
 }
+
+.immagine {
+    float: left;
+    width: 100px;
+    height: 80px;
+    padding-right: 30px;
+    }
 
 
