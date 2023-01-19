@@ -6,7 +6,6 @@
 
 } 
 
-
 body {
     margin: auto;
     display: block;
@@ -14,9 +13,13 @@ body {
 }
 
 h1 {
-    text-align: center;
     color: #E53170;
     padding-top: 30px;
     padding-bottom: 40px;
 }
+
+.center {
+    text-align: center;
+}
+
 
