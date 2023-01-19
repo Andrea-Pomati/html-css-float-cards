@@ -13,3 +13,10 @@ body {
     width: 800px;
 }
 
+h1 {
+    text-align: center;
+    color: #E53170;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
