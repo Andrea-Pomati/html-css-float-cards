@@ -25,6 +25,7 @@ h1 {
 
 p {
     margin-bottom: 60px;
+    font-weight: bold;
 }
 
 
@@ -34,4 +35,6 @@ p {
     background-color: black;
     color: white;
     display: inline-block;
+    margin-bottom: 30px;
 }
+
