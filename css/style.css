@@ -7,3 +7,9 @@
 } 
 
 
+body {
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+
